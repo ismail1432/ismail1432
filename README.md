@@ -2,7 +2,7 @@
 
 I'm a remote worker pushing from anywhere 💥 🌍
 
-Self-taught: I was a taxi driver and learned to code on my own. Today I'm an Engineering Manager with 10+ years of experience, going through every step of the path: developer → lead → Technical Lead → Engineering Manager.
+Self-taught: I was a taxi driver and learned to code on my own. Today I'm an Engineering Leader with 10+ years of experience, going through every step of the path: developer → lead → Technical Lead → Engineering Management.
 
 I combine the credibility of a back-end expert with a people-first, business-impact-driven management style.
 
